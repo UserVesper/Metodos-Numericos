@@ -14,4 +14,4 @@ InterpolaçãoNumerica_Newton: https://colab.research.google.com/drive/1y7ka33f7
 
 Equações_diferenciais_e_o_Circuito_de_Chua: https://colab.research.google.com/drive/1mRyLgp3cPtDg_iT07FEo76EZZLtTofEs?usp=sharing
 
-Como a pré visualizacão do github não funciona bem com arquivos .ipynb outra forma de visualizar é baixando um arquivo e abrindo no vs code, porém será necessário baixar as extensões do google colab, python e o kernel específico nos quais é só aceitar na hora de tentar rodar.
+Como a pré visualizacão do github não funciona bem com arquivos .ipynb outra forma de visualizar é baixando um arquivo e abrindo no vs code, porém será necessário baixar as extensões do notebook, python e o kernel específico nos quais é só aceitar na hora de tentar rodar.
