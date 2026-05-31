@@ -1,2 +1,1 @@
-# M-todos-Num-ricos
-Métodos Numéricos utilizando python
+# Métodos Numéricos utilizando python
